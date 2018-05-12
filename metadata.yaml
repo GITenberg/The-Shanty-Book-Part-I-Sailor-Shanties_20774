@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9520
     wikipedia: http://en.wikipedia.org/wiki/Richard_Runciman_Terry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20774#The-Shanty-Book-Part-I-Sailor-Shanties
 gutenberg_bookshelf:
 - Music
 - Pirates, Buccaneers, Corsairs, etc.
